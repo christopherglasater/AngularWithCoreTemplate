@@ -11,3 +11,5 @@ Use this as a .NET Core 7.0 Angular/Typescript starting template for projects
 4. This project has base code to allow .NET Core API to work with Angular single page application.
 
 5. This has seperate CORE project and Angular Project
+
+6. Make sure and set both projects as Startup projects
